@@ -1,2 +1,3 @@
 # Conversational-Chatbot
-A chatbot for small talks
+
+A chatbot for small talks made using api.ai
